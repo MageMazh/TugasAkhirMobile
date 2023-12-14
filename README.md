@@ -1,6 +1,6 @@
 # D121211069 Marcellino Candyawan Tugas Akhir Pemograman Mobile
 ### Catpedia App
-Aplikasi yang menyajikan berbagai informasi tentang berbagai jenis kucing. API yang digunakan pada aplikasi ini adalah https://api.thecatapi.com/
+Aplikasi yang menyajikan berbagai informasi tentang berbagai jenis kucing. API yang digunakan pada aplikasi ini adalah https://developers.thecatapi.com/
 
 ### Tampilan App
 <img src="https://github.com/MageMazh/TugasAkhirMobile/assets/91564104/808f3501-d919-4609-87c1-dc88e75e4fb1" height="300">
